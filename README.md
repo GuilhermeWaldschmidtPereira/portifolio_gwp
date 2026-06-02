@@ -118,7 +118,8 @@ projeto_site_pessoal/
 ## Observações importantes
 
 - Os materiais usam um arquivo demonstrativo em `assets/files/material-modelo.txt`.
-- Os links de projetos e contatos externos foram deixados como base visual e podem ser substituídos pelos endereços oficiais.
+- O e-mail, o GitHub e o Currículo Lattes já estão configurados com os dados informados.
+- O LinkedIn está configurado com a URL fornecida e pode ser substituído futuramente pelo link direto do perfil pessoal, se desejar.
 - O formulário está pronto visualmente, mas ainda não envia mensagens para um backend.
 
 ## Possíveis melhorias futuras
@@ -127,6 +128,6 @@ projeto_site_pessoal/
 - área administrativa para cadastrar materiais sem editar código;
 - página individual para cada projeto;
 - busca textual no repositório de materiais;
-- integração com GitHub, LinkedIn e Currículo Lattes reais;
+- integração do formulário com backend, API ou serviço de automação;
 - inclusão de publicações, orientações e eventos acadêmicos.
 # portifolio_gwp
